@@ -5,7 +5,7 @@ https://expenses-tracker-4peho82vb-sirmatt.vercel.app/
 
 ##About
 
-If a user experiences a form of discrimination or abuse, they can share a description of the incident and post the location on the map. The user can see the other incidents and filter them by type.
+A fun project to practice best practices when working with react. You can add your expenses and the expenses will be displayed in a list and on a graph.
 
 ## Screenshots
 
